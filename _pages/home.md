@@ -7,13 +7,15 @@ permalink: /
 published: true
 ---
 
+
+
 Welcome to the Inference for Causal Reasoning and Machine Learning Research Group at the Foster School of Business, University of Washington (UW)!
-<section>
-<p>We are a multidisciplinary team of dedicated professors with a shared passion for advancing the frontiers of knowledge at the intersection of causal inference, machine learning, and reinforcement learning, with a particular emphasis on business applications. Our group aims to leverage these cutting-edge research areas to develop innovative approaches that contribute to solving real-world challenges across various domains, including finance, marketing, operations, and management.</p>
 
-      <p>At the Foster School of Business, our research group is committed to creating an inclusive, collaborative, and dynamic environment where we can foster the exchange of ideas, share resources, and support one another in our quest for academic excellence. We believe that by bringing together diverse perspectives and backgrounds, we can collectively drive the development of novel techniques and methodologies, pushing the boundaries of our understanding in these exciting fields.</p>
+We are a multidisciplinary team of dedicated professors with a shared passion for advancing the frontiers of knowledge at the intersection of causal inference, machine learning, and reinforcement learning, with a particular emphasis on business applications. Our group aims to leverage these cutting-edge research areas to develop innovative approaches that contribute to solving real-world challenges across various domains, including finance, marketing, operations, and management.
 
-      <h3>Our research interests encompass a broad range of topics, including but not limited to:</h3>
+At the Foster School of Business, our research group is committed to creating an inclusive, collaborative, and dynamic environment where we can foster the exchange of ideas, share resources, and support one another in our quest for academic excellence. We believe that by bringing together diverse perspectives and backgrounds, we can collectively drive the development of novel techniques and methodologies, pushing the boundaries of our understanding in these exciting fields.
+
+<h3>Our research interests encompass a broad range of topics, including but not limited to:</h3>
       <ul>
         <li>Developing novel algorithms for causal discovery and effect estimation in complex business systems</li>
         <li>Designing interpretable and robust machine learning models that can identify and exploit causal relationships for strategic decision-making</li>
@@ -21,12 +23,12 @@ Welcome to the Inference for Causal Reasoning and Machine Learning Research Grou
         <li>Exploring the ethical implications and fairness of data-driven algorithms in real-world business applications, such as customer targeting, pricing, and supply chain optimization</li>
       </ul>
 
-      <p>We are eager to collaborate with fellow researchers, industry partners, and policymakers to translate our research findings into practical solutions with significant societal and business impact. Additionally, we are dedicated to educating and mentoring the next generation of business researchers and practitioners, providing them with the necessary skills and knowledge to excel in their careers.</p>
+We are eager to collaborate with fellow researchers, industry partners, and policymakers to translate our research findings into practical solutions with significant societal and business impact. Additionally, we are dedicated to educating and mentoring the next generation of business researchers and practitioners, providing them with the necessary skills and knowledge to excel in their careers.
 
-      <p>We encourage you to explore our website, learn more about our current projects, and get in touch if you're interested in joining our community or collaborating on research initiatives.</p>
+We encourage you to explore our website, learn more about our current projects, and get in touch if you're interested in joining our community or collaborating on research initiatives.
 
-      <p>Together, we aim to advance the state of the art in causal inference, machine learning, and reinforcement learning, ultimately contributing to a more knowledgeable and connected world of business academia.</p>
-</section>
+Together, we aim to advance the state of the art in causal inference, machine learning, and reinforcement learning, ultimately contributing to a more knowledgeable and connected world of business academia.
+
 
 
 
