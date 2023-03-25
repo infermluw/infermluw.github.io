@@ -15,13 +15,16 @@ We are a multidisciplinary team of dedicated professors with a shared passion fo
 
 At the Foster School of Business, our research group is committed to creating an inclusive, collaborative, and dynamic environment where we can foster the exchange of ideas, share resources, and support one another in our quest for academic excellence. We believe that by bringing together diverse perspectives and backgrounds, we can collectively drive the development of novel techniques and methodologies, pushing the boundaries of our understanding in these exciting fields.
 
-<h3>Our research interests encompass a broad range of topics, including but not limited to:</h3>
-      <ul>
-        <li>Developing novel algorithms for causal discovery and effect estimation in complex business systems</li>
-        <li>Designing interpretable and robust machine learning models that can identify and exploit causal relationships for strategic decision-making</li>
-        <li>Advancing reinforcement learning techniques to incorporate causal reasoning for improved decision-making in dynamic business environments</li>
-        <li>Exploring the ethical implications and fairness of data-driven algorithms in real-world business applications, such as customer targeting, pricing, and supply chain optimization</li>
-      </ul>
+Our research interests encompass a broad range of topics, including but not limited to:
+      
+* Developing novel algorithms for causal discovery and effect estimation in complex business systems
+        
+* Designing interpretable and robust machine learning models that can identify and exploit causal relationships for strategic decision-making
+
+* Advancing reinforcement learning techniques to incorporate causal reasoning for improved decision-making in dynamic business environments
+
+* Exploring the ethical implications and fairness of data-driven algorithms in real-world business applications, such as customer targeting, pricing, and supply chain optimization
+      
 
 We are eager to collaborate with fellow researchers, industry partners, and policymakers to translate our research findings into practical solutions with significant societal and business impact. Additionally, we are dedicated to educating and mentoring the next generation of business researchers and practitioners, providing them with the necessary skills and knowledge to excel in their careers.
 
