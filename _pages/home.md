@@ -1,7 +1,7 @@
 ---
 title: InferML - Home
 layout: homelay
-excerpt: Allan Lab at Leiden University.
+excerpt: InferML at University of Washington.
 sitemap: false
 permalink: /
 published: true
