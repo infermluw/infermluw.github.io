@@ -9,7 +9,7 @@ published: true
 
 
 
-Welcome to the Inference for Causal Reasoning and Machine Learning Research Group at the Foster School of Business, University of Washington (UW)!
+Welcome to the Inference for Economic Reasoning and Machine Learning Research Group at the Foster School of Business, University of Washington (UW)!
 
 We are a multidisciplinary team of dedicated academics with a shared passion for advancing the frontiers of knowledge at the intersection of causal inference, machine learning, and reinforcement learning, with a particular emphasis on business applications. Our group aims to leverage these cutting-edge research areas to develop innovative approaches that contribute to solving real-world challenges across various domains.
 
